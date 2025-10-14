@@ -26,7 +26,13 @@ const achievementsData = [
         items: [
             { id: "master-3-1", name: "次郎系ラーメンを食べる" },
             { id: "master-3-2", name: "ピザを1枚一人で食べる" },
-            { id: "master-3-3", name: "朝昼夜の食事をコンビニで済ませる" },            
+            { id: "master-3-3", name: "朝昼夜の食事をコンビニで済ませる" },
         ]
-    }
+    },
+    {
+        category: "その他",
+        items: [
+            { id: "master-99-1", name: "シャベルで穴を掘る" }
+        ]
+    },
 ];
